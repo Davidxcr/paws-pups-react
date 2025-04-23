@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "1744677066637",
+      "name": "Jack Reacher",
+      "email": "jackreacher@example.com",
+      "password": "$2b$10$s6BpAgDF9TFbbInHqGdvOO4aMDiB5N9OiK7.XSBH.3MIX02rGdXXC",
+      "created_at": "2025-04-15T00:31:06.637Z"
+    }
+  ]
+}
