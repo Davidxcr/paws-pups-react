@@ -6,14 +6,14 @@ const Home = () => {
       <section className="container-fluid px-0">
         <div className="row align-items-center">
           <div className="col-lg-6">
-            <div id="headingGroup" className="text-white text-center d-none d-lg-block mt-5">
-              <h1 className="display-2">PAWS<span>/</span>PUPS<span>/</span>LOVE</h1>
-              <h1 className="display-2">PAWS<span>/</span>PUPS<span>/</span>LOVE</h1>
-              <h1 className="display-2">PAWS<span>/</span>PUPS<span>/</span>LOVE</h1>
-              <h1 className="display-2">PAWS<span>/</span>PUPS<span>/</span>LOVE</h1>
-              <h1 className="display-2">PAWS<span>/</span>PUPS<span>/</span>LOVE</h1>
-              <h1 className="display-2">PAWS<span>/</span>PUPS<span>/</span>LOVE</h1>
-              <h1 className="display-2">PAWS<span>/</span>PUPS<span>/</span>LOVE</h1>
+            <div id="headingGroup" className="text-center d-none d-lg-block mt-5" style={{ color: '#6b4226' }}>
+              <h1 className="display-2">PAWS <span> / </span>PUPS <span> / </span> LOVE</h1>
+              <h1 className="display-2">PAWS <span> / </span>PUPS <span> / </span> LOVE</h1>
+              <h1 className="display-2">PAWS <span> / </span>PUPS <span> / </span> LOVE</h1>
+              <h1 className="display-2">PAWS <span> / </span>PUPS <span> / </span> LOVE</h1>
+              <h1 className="display-2">PAWS <span> / </span>PUPS <span> / </span> LOVE</h1>
+              <h1 className="display-2">PAWS <span> / </span>PUPS <span> / </span> LOVE</h1>
+              <h1 className="display-2">PAWS <span> / </span>PUPS <span> / </span> LOVE</h1>
             </div>
           </div>
           <div className="col-lg-6">
